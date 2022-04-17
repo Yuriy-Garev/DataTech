@@ -1,5 +1,5 @@
-# [Cources Page](https://github.com/Data-Learn/)
-## [Data Engineering](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%BA%D1%83%D1%80%D1%81%D1%83-%D0%BF%D0%BE-analytics-data-engineering)
+# [Data Learn cources homepage](https://github.com/Data-Learn/)
+## [Data Engineering: DE-101](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%BA%D1%83%D1%80%D1%81%D1%83-%D0%BF%D0%BE-analytics-data-engineering)
 ### [My progress in DE-101](https://github.com/Yuriy-Garev/InfoTech/tree/main/data-engineering/DE-101)
 - ![Ready](https://img.shields.io/badge/-✔-success) [Введение](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
 - ![Ready](https://img.shields.io/badge/-✔-success) [Требования](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
